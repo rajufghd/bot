@@ -1,0 +1,17 @@
+chmod +x *
+
+./danger.sh
+
+pip install python-telegram-bot --upgrade
+
+chmod +x *
+
+python3 danger.py
+
+@SHARPCRACKS
+
+chmod +x *
+pip install telebot pymongo aiohttp
+chmod +x *
+python3 sharp.py
+
